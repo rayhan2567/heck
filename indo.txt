@@ -93,3 +93,23 @@
 {×} Nama     > Sandra Sa'ban
 {×} User     > 100024769357157
 {×} Password > sandra12345
+
+{×} CEKPOINT 
+{×} Nama     > Tiara Ajja
+{×} User     > 100036041615669
+{×} Password > tiara123
+
+{×} CEKPOINT 
+{×} Nama     > Ocha Lingga
+{×} User     > 100043972189473
+{×} Password > ocha1234
+
+{×} CEKPOINT 
+{×} Nama     > Lita
+{×} User     > 100041581521344
+{×} Password > kontol
+
+{×} CEKPOINT 
+{×} Nama     > Della
+{×} User     > 100046364562980
+{×} Password > della12345
